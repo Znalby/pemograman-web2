@@ -14,7 +14,7 @@
                 <img src="../dist/img/avatar4.png" class="img-circle elevation-2" alt="User Image">
             </div>
             <div class="info">
-                <a href="#" class="d-block">Aria Dillah</a>
+                <a href="#" class="d-block">Muhammad Zen Alby</a>
             </div>
         </div>
 
